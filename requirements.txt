@@ -1,0 +1,3 @@
+python_nmap==0.6.4
+nmap==0.0.1
+virustotal_api==1.1.11
